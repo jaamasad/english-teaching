@@ -8,7 +8,7 @@ import img3 from "../../statics/images/slider3.jpg"
 import img4 from "../../statics/images/slider4.jpg"
 import img5 from "../../statics/images/slider5.jpg"
 import homeBg from "../../statics/images/home-background.png"
-import hero1 from "../../statics/images/little-boy.jpg"
+import hero1 from "../../statics/images/little-boy_2.jpg"
 import heroHome2 from "../../statics/images/football-ground.png"
 
 const SLIDERIMG = [
